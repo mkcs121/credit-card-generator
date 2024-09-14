@@ -1,6 +1,6 @@
+# Suspected Trojan DO NOT USE!!!
 
-
-# Credit Card Generator (CardGen)
+### Credit Card Generator (CardGen)
 
 A credit card generator for fake verification is a tool used to create fake credit card numbers that mimic the format of real credit card numbers. \
 These numbers are typically used for testing purposes, such as verifying the functionality of e-commerce websites or software applications that require credit card input without involving real financial transactions.
